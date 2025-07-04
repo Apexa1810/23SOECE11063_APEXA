@@ -4,12 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _23SOECE11063_APEXA
+namespace  _23SOECE11063_APEXA
 {
     internal class Program
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hello world");
         }
     }
 }
